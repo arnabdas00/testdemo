@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<suite name="BookshelveTesting">
+
+
+<test name="FunctionalTesting">
+
+
+<classes>
+
+ <class name="Base.Base"/>
+
+ <class name="TestSuite.FindBookShelvesTest"/>
+
+ <class name="TestSuite.regressionTesting"/>
+
+
+
+</classes>
+
+</test>
+
+</suite>
